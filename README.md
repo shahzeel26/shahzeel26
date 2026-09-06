@@ -8,7 +8,7 @@ I build end-to-end data and AI systems across machine learning, analytics, datab
 
 📍 Perth, Western Australia
 
-[[LinkedIn](https://www.linkedin.com/in/zeel-shah-45624b324/)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/zeel-shah-45624b324/)) • [Portfolio]([YOUR_PORTFOLIO_URL](https://zeelshah.netlify.app/)) • [Email](shahzeel268@gmail.com)
+[[LinkedIn](https://www.linkedin.com/in/zeel-shah-45624b324/)] • [[Portfolio](https://zeelshah.netlify.app/)]• [Email](shahzeel268@gmail.com)
 
 ---
 
