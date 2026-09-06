@@ -47,14 +47,23 @@ Mining-focused prototype combining **interactive analytics and generative AI** t
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Programming:** Python · SQL · R · Java · Bash  
-**Machine Learning:** Scikit-learn · Regression · Classification · Random Forest · PCA · Anomaly Detection  
-**Data Engineering:** PostgreSQL · SQLAlchemy · ETL · Data Warehousing · Neo4j  
-**Analytics & Visualisation:** Power BI · Tableau · Plotly · Pandas · NumPy  
-**AI:** LLM Integration · Tool Calling · Conversational AI · Explainable AI  
-**Development:** Git · GitHub · Streamlit · REST APIs · Linux/Unix
+**Programming:** Python · SQL · R · Java · C · C++ · Bash · JavaScript
+
+**Machine Learning & Data Science:** Scikit-learn · Pandas · NumPy · Random Forest · AdaBoost · Regression · Classification · PCA · Anomaly Detection · Predictive Modelling · Feature Engineering · Model Evaluation
+
+**Generative AI:** LLM Integration · Tool Calling · Conversational AI · Prompt Engineering · Grounded AI Assistants
+
+**Data Engineering & Databases:** PostgreSQL · SQLAlchemy · ETL · Data Warehousing · Star Schema · Neo4j · Data Pipelines · REST APIs
+
+**Analytics & Visualisation:** Power BI · Tableau · Plotly · Matplotlib · Excel · Data Analysis · Dashboard Development
+
+**Development:** Git · GitHub · Streamlit · OOP · Linux/Unix · Backend Development · API Integration
+
+**Cloud & Deployment:** Azure · Streamlit Community Cloud
+
+**Web:** HTML · CSS · WordPress
 
 ---
 
