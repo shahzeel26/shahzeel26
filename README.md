@@ -69,4 +69,4 @@ Mining-focused prototype combining interactive analytics and AI-assisted functio
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [GitHub](https://github.com/shahzeel26)
+[[LinkedIn](https://www.linkedin.com/in/zeel-shah-45624b324/)](YOUR_LINKEDIN_URL) • [[Portfolio](https://zeelshah.netlify.app/)](YOUR_PORTFOLIO_URL) • [GitHub](https://github.com/shahzeel26)
